@@ -92,7 +92,7 @@ library
     , lsp-types >=2
     , mtl
     , network
-    , network-simple ==0.4.2
+    , network-simple
     , prettyprinter
     , process
     , stm
@@ -137,7 +137,7 @@ executable als
     , lsp-types >=2
     , mtl
     , network
-    , network-simple ==0.4.2
+    , network-simple
     , prettyprinter
     , process
     , stm
@@ -216,7 +216,7 @@ test-suite als-test
     , lsp-types >=2
     , mtl
     , network
-    , network-simple ==0.4.2
+    , network-simple
     , prettyprinter
     , process
     , stm

@@ -75,7 +75,7 @@ dependencies:
   - lsp >= 2
   - mtl
   - network
-  - network-simple == 0.4.2
+  - network-simple
   - strict
   - stm
   - text
